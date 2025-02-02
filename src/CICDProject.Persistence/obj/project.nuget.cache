@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HodNfKTMhcNIxqIizQBE0qjdokrOjy055xbh3QX+Ok38uA/L+/hiimz1rkYuo/Fw1fea07Qhqdus7+UbPH+MNw==",
+  "success": true,
+  "projectFilePath": "E:\\CICDProject\\src\\CICDProject.Persistence\\CICDProject.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amogus\\.nuget\\packages\\sonaranalyzer.csharp\\9.7.0.75501\\sonaranalyzer.csharp.9.7.0.75501.nupkg.sha512",
+    "C:\\Users\\Amogus\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

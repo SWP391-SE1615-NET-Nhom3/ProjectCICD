@@ -1,0 +1,11 @@
+E:\CICDProject\src\CICDProject.Domain\bin\Debug\net8.0\CICDProject.Domain.deps.json
+E:\CICDProject\src\CICDProject.Domain\bin\Debug\net8.0\CICDProject.Domain.dll
+E:\CICDProject\src\CICDProject.Domain\bin\Debug\net8.0\CICDProject.Domain.pdb
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\CICDProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\CICDProject.Domain.AssemblyInfoInputs.cache
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\CICDProject.Domain.AssemblyInfo.cs
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\CICDProject.Domain.csproj.CoreCompileInputs.cache
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\CICDProject.Domain.dll
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\refint\CICDProject.Domain.dll
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\CICDProject.Domain.pdb
+E:\CICDProject\src\CICDProject.Domain\obj\Debug\net8.0\ref\CICDProject.Domain.dll

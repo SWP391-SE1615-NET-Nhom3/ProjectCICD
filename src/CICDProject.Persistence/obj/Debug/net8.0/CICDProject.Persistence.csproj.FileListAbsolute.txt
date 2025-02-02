@@ -1,0 +1,15 @@
+E:\CICDProject\src\CICDProject.Persistence\bin\Debug\net8.0\CICDProject.Persistence.deps.json
+E:\CICDProject\src\CICDProject.Persistence\bin\Debug\net8.0\CICDProject.Persistence.dll
+E:\CICDProject\src\CICDProject.Persistence\bin\Debug\net8.0\CICDProject.Persistence.pdb
+E:\CICDProject\src\CICDProject.Persistence\bin\Debug\net8.0\CICDProject.Domain.dll
+E:\CICDProject\src\CICDProject.Persistence\bin\Debug\net8.0\CICDProject.Domain.pdb
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.csproj.AssemblyReference.cache
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.AssemblyInfoInputs.cache
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.AssemblyInfo.cs
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.csproj.CoreCompileInputs.cache
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.csproj.CopyComplete
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.dll
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\refint\CICDProject.Persistence.dll
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\CICDProject.Persistence.pdb
+E:\CICDProject\src\CICDProject.Persistence\obj\Debug\net8.0\ref\CICDProject.Persistence.dll

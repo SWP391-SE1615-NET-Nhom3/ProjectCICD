@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPNEJrRpemepSVXBBgoc6UmPiqhn/knDI8W/UGd4HhlGA4HqxzoQeFZKWag2zOR7NDCjQhINIkHeZ/Yfr5ZA2Q==",
+  "success": true,
+  "projectFilePath": "E:\\CICDProject\\src\\CICDProject.Contract\\CICDProject.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amogus\\.nuget\\packages\\sonaranalyzer.csharp\\9.7.0.75501\\sonaranalyzer.csharp.9.7.0.75501.nupkg.sha512",
+    "C:\\Users\\Amogus\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

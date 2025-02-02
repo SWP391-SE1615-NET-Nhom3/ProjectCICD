@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qiM2GL1b8jDu2HPQKwMi5oEFsWWTVhFPPw1/nS44l4Dwx48zVlxlH4pGr4uXPAwE4Mb/Hu0RK1nkrcMFrVhYKA==",
+  "success": true,
+  "projectFilePath": "E:\\CICDProject\\src\\CICDProject.Presentation\\CICDProject.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amogus\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Amogus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Amogus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Amogus\\.nuget\\packages\\sonaranalyzer.csharp\\9.7.0.75501\\sonaranalyzer.csharp.9.7.0.75501.nupkg.sha512",
+    "C:\\Users\\Amogus\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
